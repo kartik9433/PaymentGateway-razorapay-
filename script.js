@@ -209,7 +209,7 @@ document.addEventListener("DOMContentLoaded", function () {
           name: "Spark 3.0 by Genie Ashwani",
           description: "Java Full Stack Course Enrollment",
           image:
-            "https://d3fu8elvld6rb5.cloudfront.net/codeforsuccess.in/img/spark3.jpg", 
+             <img src="tech.jpg"  />, 
           order_id: razorpayOrderId,
           theme: {
             color: "#4f46e5", // Match your button color
